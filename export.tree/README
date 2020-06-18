@@ -1,0 +1,20 @@
+### Comments added by Openfmri Curators ###
+===========================================
+
+General Comments
+----------------
+ - The EchoTime and RepetitionTime values that appear in the .json values were taken from the
+dicom header printouts that are located in sourcedata. However, no units were provided and
+many of these seemed to be off by three decimals. Thus, we converted them between seconds and
+milliseconds according to our best judgement.
+
+Known Issues
+------------
+ - The EchoTime and RepetitionTime for the images in this dataset, which were taken from the
+dicom headers (located in sourcedata) do not match those mentioned in the paper in all
+cases.
+
+Preprocessing
+-------------
+fMRIprep was run on this dataset. Results are located in https://legacy.openfmri.org/dataset/ds000031/
+
