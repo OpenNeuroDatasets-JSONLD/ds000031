@@ -15,5 +15,8 @@
         "http://myconnectome.org",
         "https://www.nature.com/articles/ncomms9885",
         "https://doi.org/10.1016/j.neuron.2015.06.037"
+    ],
+    "EthicsApprovals": [
+        "The University of Texas Office of Research Support reviewed the procedure for collecting the primary subject data and determined that it did not meet the requirements for human subjects research as defined by the Common Rule (45 CFR 46) or FDA Regulations (21 CFR 50 and 56), and thus, institutional review board (IRB) approval was not necessary. "
     ]
 }
