@@ -10,7 +10,7 @@
         "GRANT #1",
         "GRANT #2"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "HowToAcknowledge": "Please acknowledge as follows: Data for the MyConnectome project were obtained from the OpenNeuro database (ds000031); also cite: Poldrack et al., (2015). Long-term neural and physiological phenotyping of a single human. Nature Communications.",
     "License": "CC0",
     "Name": "Myconnectome",
     "ReferencesAndLinks": [
