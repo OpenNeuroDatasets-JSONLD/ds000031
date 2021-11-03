@@ -1,0 +1,11 @@
+This is a new version of the MyConnectome dataset (Poldrack et al., 2015).  See http://myconnectome.org
+for more information.
+
+This is a newly BIDS-ified version that replaces the original version (v00001) uploaded in 2018.  Code u
+sed to perform conversion can be found at https://github.com/poldrack/ds000031_conversion
+
+### Comments added by Openfmri Curators to previous version###
+
+General Comments ---------------- - The EchoTime and RepetitionTime values that appear in the .json values were taken from the dicom header printouts that are located in sourcedata. However, no units were provided and many of these seemed to be off by three decimals. Thus, we converted them between seconds and milliseconds according to our best judgement.
+
+Known Issues ------------ - The EchoTime and RepetitionTime for the images in this dataset, which were taken from the dicom headers (located in sourcedata) do not match those mentioned in the paper in all cases.
