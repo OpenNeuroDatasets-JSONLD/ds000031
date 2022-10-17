@@ -1,0 +1,7 @@
+filename	acq_time	operator	randstr
+fmap/sub-01_ses-034_dir-AP_run-1_epi.nii.gz	2012-12-18T07:26:54.235000	n/a	3720828c
+fmap/sub-01_ses-034_dir-PA_run-1_epi.nii.gz	2012-12-18T07:28:05.167500	n/a	32c8754d
+func/sub-01_ses-034_task-rest_run-1_bold.nii.gz	2012-12-18T07:31:14.905000	n/a	7720e912
+func/sub-01_ses-034_task-rest_run-1_sbref.nii.gz	2012-12-18T07:31:14.905000	n/a	7720e912
+dwi/sub-01_ses-034_dir-RL_run-1_dwi.nii.gz	2012-12-18T07:51:48.782500	n/a	e6a7a8f9
+dwi/sub-01_ses-034_dir-LR_run-1_dwi.nii.gz	2012-12-18T07:59:25.332500	n/a	0d31e4d3
