@@ -1,3 +1,8 @@
+2.0.0 2023-03-15
+  - renamed datasets collected after the inital UT Austin acquisitions
+  - Included newer datasets from 2017 and 2022
+  - included mean fieldmap (generated using same methods described in Laumann et al.)
+  - - fixed intendedfor fields to use mean fieldmap for distortion correction
 1.0.0 2021-11-03
   - Completely re-BIDSified to fix many metadata issues with previous version
 0.0.1  Initial data acquired
