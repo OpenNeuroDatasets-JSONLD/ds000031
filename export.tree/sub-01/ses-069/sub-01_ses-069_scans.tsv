@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+func/sub-01_ses-069_task-rest_run-1_bold.nii.gz	2013-07-16T07:45:43.917500	n/a	4891052c
+func/sub-01_ses-069_task-rest_run-1_sbref.nii.gz	2013-07-16T07:45:43.917500	n/a	4891052c
+func/sub-01_ses-069_task-breathhold_run-1_bold.nii.gz	2013-07-16T07:57:14.950000	n/a	2e585f2d
+func/sub-01_ses-069_task-breathhold_run-1_sbref.nii.gz	2013-07-16T07:57:14.950000	n/a	2e585f2d
