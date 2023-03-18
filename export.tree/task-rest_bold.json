@@ -1,0 +1,1 @@
+{"MagneticFieldStrength": 3, "FlipAngle": 63, "CogAtlasID": "http://www.cognitiveatlas.org/task/id/trm_54e69c642d89b", "TaskDescription": "Eyes-closed resting-state fMRI (RS-fMRI)", "PulseSequenceType": "Multiband EPI", "PhaseEncodingDirection": "j-", "MultibandAccelerationFactor": 4, "ManufacturersModelName": "Skyra", "TaskName": "rest", "Manufacturer": "Siemens"}
