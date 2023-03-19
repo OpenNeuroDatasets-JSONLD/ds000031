@@ -1,3 +1,5 @@
+2.0.2 2023-03-19
+  - fix bval/bvec files for ses-2015
 2.0.0 2023-03-15
   - renamed datasets collected after the inital UT Austin acquisitions
   - Included newer datasets from 2017 and 2022
