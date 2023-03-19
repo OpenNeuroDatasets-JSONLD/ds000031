@@ -1,0 +1,1242 @@
+{
+    "sescode": {
+        "LongName": null,
+        "Description": "Session code",
+        "Units": null,
+        "Levels": null,
+        "TermURL": null
+    },
+    "date": {
+        "LongName": null,
+        "Description": "Scan date",
+        "Units": "date",
+        "TermURL": null
+    },
+    "afterscan:Anxietyduringscan": {
+        "LongName": null,
+        "Description": "Anxiety during scan reported immediately after scan",
+        "Levels": {
+            "1": "Extremely anxious",
+            "2": "Very anxious",
+            "3": "anxious",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "afterscan:diastolic": {
+        "LongName": null,
+        "Description": "Diastolic blood pressure immediately after scan",
+        "Units": "mmHg",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/407555005"
+    },
+    "afterscan:pulse": {
+        "LongName": null,
+        "Description": "Pulse immediately after scan",
+        "Units": "beats per minute",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/78564009"
+    },
+    "afterscan:systolic": {
+        "LongName": null,
+        "Description": "Systolic blood pressure immediately after scan",
+        "Units": "mmHg",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/407554009"
+    },
+    "blood:ba": {
+        "LongName": null,
+        "Description": "CBC basophil count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/42351005"
+    },
+    "blood:eo": {
+        "LongName": null,
+        "Description": "CBC eosinophil count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/71960002"
+    },
+    "blood:hgb": {
+        "LongName": null,
+        "Description": "CBC hemoglobin",
+        "Units": "g/dL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/38082009"
+    },
+    "blood:ly": {
+        "LongName": null,
+        "Description": "CBC lymphocyte count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/74765001"
+    },
+    "blood:mch": {
+        "LongName": null,
+        "Description": "CBC mean corpuscular hemoglobin",
+        "Units": "pg",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/54706004"
+    },
+    "blood:mchc": {
+        "LongName": null,
+        "Description": "CBC mean corpuscular hemoglobin concentration",
+        "Units": "g/dL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/37254006"
+    },
+    "blood:mcv": {
+        "LongName": null,
+        "Description": "CBC mean corpuscular volume",
+        "Units": "fL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/104133003"
+    },
+    "blood:mo": {
+        "LongName": null,
+        "Description": "CBC monocyte count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/67776007"
+    },
+    "blood:mpv": {
+        "LongName": null,
+        "Description": "CBC mean platelet volume",
+        "Units": "fL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/75672003"
+    },
+    "blood:ne": {
+        "LongName": null,
+        "Description": "CBC neutrophil count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/30630007"
+    },
+    "blood:plt": {
+        "LongName": null,
+        "Description": "CBC platelet count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/61928009"
+    },
+    "blood:rbc": {
+        "LongName": null,
+        "Description": "CBC red blood cell count",
+        "Units": "10^6/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/14089001"
+    },
+    "blood:wbc": {
+        "LongName": null,
+        "Description": "CBC white blood cell count",
+        "Units": "10^3/uL",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/767002"
+    },
+    "day_of_week": {
+        "LongName": null,
+        "Description": "Day of week of scan",
+        "Units": null,
+        "TermURL": null
+    },
+    "email:LIWC_CDI": {
+        "LongName": null,
+        "Description": "LIWC Categorical-Dynamic Index",
+        "Units": "float",
+        "TermURL": null
+    },
+    "email:LIWC_negemo": {
+        "LongName": null,
+        "Description": "LIWC Negative Emotion",
+        "Units": "float",
+        "TermURL": null
+    },
+    "email:LIWC_posemo": {
+        "LongName": null,
+        "Description": "LIWC Positive Emotion",
+        "Units": "float",
+        "TermURL": null
+    },
+    "morning:Pulse": {
+        "LongName": null,
+        "Description": "Pulse immediately after waking",
+        "Units": "beats per minute",
+        "TermURL": null
+    },
+    "morning:Sleepquality": {
+        "LongName": null,
+        "Description": "Sleep quality rated immediately after waking",
+        "Levels": {
+            "1": "Extremely poor",
+            "2": "Very poor",
+            "3": "Poor",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "morning:Soreness": {
+        "LongName": null,
+        "Description": "Physical soreness measured immediately after waking",
+        "Levels": {
+            "1": "Extremely sore",
+            "2": "Very sore",
+            "3": "Sore",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "morning:diastolic": {
+        "LongName": null,
+        "Description": "Diastolic blood pressure immediately after waking",
+        "Units": "mmHg",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/407555005"
+    },
+    "morning:systolic": {
+        "LongName": null,
+        "Description": "Systolic blood pressure immediately after waking",
+        "Units": "mmHg",
+        "TermURL": "http://purl.bioontology.org/ontology/SNOMEDCT/407554009"
+    },
+    "panas:active": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  active",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:afraid": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  afraid",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:alert": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  alert",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:alone": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  alone",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:amazed": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  amazed",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:angry": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  angry",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:angry_at_self": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  angry_at_self",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:ashamed": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  ashamed",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:astonished": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  astonished",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:at_ease": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  at_ease",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:attentive": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  attentive",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:bashful": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  bashful",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:blameworthy": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  blameworthy",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:blue": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  blue",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:bold": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  bold",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:calm": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  calm",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:cheerful": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  cheerful",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:concentrating": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  concentrating",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:confident": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  confident",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:daring": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  daring",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:delighted": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  delighted",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:determined": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  determined",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:disgusted": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  disgusted",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:disgusted_with_self": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  disgusted_with_self",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:dissatisfied_with_self": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  dissatisfied_with_self",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:distressed": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  distressed",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:downhearted": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  downhearted",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:drowsy": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  drowsy",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:energetic": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  energetic",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:enthusiastic": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  enthusiastic",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:excited": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  excited",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:fatigue": {
+        "LongName": null,
+        "Description": "PANAS derived score:  fatigue",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:fearless": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  fearless",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:frightened": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  frightened",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:guilty": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  guilty",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:happy": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  happy",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:hostile": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  hostile",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:inspired": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  inspired",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:interested": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  interested",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:irritable": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  irritable",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:jittery": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  jittery",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:joyful": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  joyful",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:lively": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  lively",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:loathing": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  loathing",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:lonely": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  lonely",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:negative": {
+        "LongName": null,
+        "Description": "PANAS derived score:  negative",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:nervous": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  nervous",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:positive": {
+        "LongName": null,
+        "Description": "PANAS derived score:  positive",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:proud": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  proud",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:relaxed": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  relaxed",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:sad": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  sad",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:scared": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  scared",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:scornful": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  scornful",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:shaky": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  shaky",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:sheepish": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  sheepish",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:shy": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  shy",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:sleepy": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  sleepy",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:sluggish": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  sluggish",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:strong": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  strong",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:surprised": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  surprised",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:timid": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  timid",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:tired": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  tired",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "panas:upset": {
+        "LongName": null,
+        "Description": "PANAS item (immediately after scan):  upset",
+        "Levels": {
+            "1": "Very slightly or not at all",
+            "2": "A little",
+            "3": "Moderately",
+            "4": "Quite a bit",
+            "5": "Extremely"
+        },
+        "TermURL": "https://www.cognitiveatlas.org/task/id/tsk_4a57abb949d09/"
+    },
+    "prevevening:Alcohol": {
+        "LongName": null,
+        "Description": "Alcohol consumed (standard drinks) reported previous evening",
+        "Units": "float",
+        "TermURL": null
+    },
+    "prevevening:Guthealth": {
+        "LongName": null,
+        "Description": "Gut health reported previous evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "prevevening:Howmuchdidtinnitusbotheryoutoday?": {
+        "LongName": null,
+        "Description": "How much did tinnitus bother you today reported previous evening",
+        "Levels": {
+            "1": "not bothered",
+            "2": "bothered a little but not much",
+            "3": "bothered more than a little but not a lot",
+            "4": "bothered a lot",
+            "5": "extremely bothered"
+        },
+        "TermURL": null
+    },
+    "prevevening:Psoriasisseverity": {
+        "LongName": null,
+        "Description": "Psoriasis severity reported previous evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "prevevening:Stress": {
+        "LongName": null,
+        "Description": "Psychological stress reported previous evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "prevevening:Timespentoutdoors": {
+        "LongName": null,
+        "Description": "Time spent outdoors reported previous evening",
+        "Units": "hours",
+        "TermURL": null
+    },
+    "rna:rin": {
+        "LongName": null,
+        "Description": "RNA integrity number",
+        "Units": "float",
+        "TermURL": "http://purl.obolibrary.org/obo/NCIT_C63637"
+    },
+    "sameevening:Alcohol": {
+        "LongName": null,
+        "Description": "Alcohol consumed (standard drinks) reported same evening",
+        "Units": "float",
+        "TermURL": null
+    },
+    "sameevening:Guthealth": {
+        "LongName": null,
+        "Description": "Gut health reported same evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "sameevening:Howmuchdidtinnitusbotheryoutoday?": {
+        "LongName": null,
+        "Description": "How much did tinnitus bother you today reported same evening",
+        "Levels": {
+            "1": "not bothered",
+            "2": "bothered a little but not much",
+            "3": "bothered more than a little but not a lot",
+            "4": "bothered a lot",
+            "5": "extremely bothered"
+        },
+        "TermURL": null
+    },
+    "sameevening:Psoriasisseverity": {
+        "LongName": null,
+        "Description": "Psoriasis severity reported same evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "sameevening:Stress": {
+        "LongName": null,
+        "Description": "Psychological stress reported same evening",
+        "Levels": {
+            "1": "Extremely bad",
+            "2": "Very bad",
+            "3": "Bad",
+            "4": "Average",
+            "5": "Good",
+            "6": "Very good",
+            "7": "Extremely good"
+        },
+        "TermURL": null
+    },
+    "sameevening:Timespentoutdoors": {
+        "LongName": null,
+        "Description": "Time spent outdoors reported same evening",
+        "Units": "hours",
+        "TermURL": null
+    },
+    "scan:has_breathhold": {
+        "LongName": null,
+        "Description": "breathhold scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_dots": {
+        "LongName": null,
+        "Description": "dots scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_dti": {
+        "LongName": null,
+        "Description": "dti scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_faceloc": {
+        "LongName": null,
+        "Description": "faceloc scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_grid": {
+        "LongName": null,
+        "Description": "grid scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_nback": {
+        "LongName": null,
+        "Description": "nback scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_resting": {
+        "LongName": null,
+        "Description": "resting scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_superloc": {
+        "LongName": null,
+        "Description": "superloc scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_t1w": {
+        "LongName": null,
+        "Description": "t1w scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:has_t2w": {
+        "LongName": null,
+        "Description": "t2w scan present",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "scan:noisecancel": {
+        "LongName": null,
+        "Description": "Noise cancellation status during scan",
+        "Levels": {
+            "0": "Absent",
+            "1": "Present"
+        },
+        "TermURL": null
+    },
+    "weather:precip": {
+        "LongName": null,
+        "Description": "Precipitation for same day",
+        "Units": "inches",
+        "TermURL": null
+    },
+    "weather:temphi": {
+        "LongName": null,
+        "Description": "High temperature for same day",
+        "Units": "degrees Farenheit",
+        "TermURL": null
+    },
+    "weather:templo": {
+        "LongName": null,
+        "Description": "Low temperature for same day",
+        "Units": "degrees Farenheit",
+        "TermURL": null
+    },
+    "weight": {
+        "LongName": null,
+        "Description": "Weight in pounds measured using Aria scale",
+        "Units": "pounds",
+        "TermURL": null
+    },
+    "zeo:timeInDeep": {
+        "LongName": null,
+        "Description": "ZEO time in deep sleep",
+        "Units": "minutes",
+        "TermURL": null
+    },
+    "zeo:timeInLight": {
+        "LongName": null,
+        "Description": "ZEO time in light sleep",
+        "Units": "minutes",
+        "TermURL": null
+    },
+    "zeo:timeInRem": {
+        "LongName": null,
+        "Description": "ZEO time in REM sleep",
+        "Units": "minutes",
+        "TermURL": null
+    },
+    "zeo:totalZ": {
+        "LongName": null,
+        "Description": "ZEO total sleeping time",
+        "Units": "minutes",
+        "TermURL": null
+    },
+    "zeo:zq": {
+        "LongName": null,
+        "Description": "ZEO ZQ score",
+        "Units": "arbitrary integer",
+        "TermURL": null
+    }
+}
