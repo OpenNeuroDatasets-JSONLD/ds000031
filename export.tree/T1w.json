@@ -1,0 +1,7 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Skyra",
+	"MagneticFieldStrength": 3,
+	"PulseSequenceType": "MPRAGE",
+	"FlipAngle": 8
+}
