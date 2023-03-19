@@ -1,0 +1,7 @@
+filename	acq_time	operator	randstr
+func/sub-01_ses-104_task-rest_run-1_bold.nii.gz	2014-03-11T07:35:01.080000	n/a	24276f18
+func/sub-01_ses-104_task-rest_run-1_sbref.nii.gz	2014-03-11T07:35:01.080000	n/a	24276f18
+func/sub-01_ses-104_task-language_run-1_bold.nii.gz	2014-03-11T07:46:34.377500	n/a	7ccec3cd
+func/sub-01_ses-104_task-language_run-1_sbref.nii.gz	2014-03-11T07:46:34.377500	n/a	7ccec3cd
+func/sub-01_ses-104_task-spatialwm_run-1_bold.nii.gz	2014-03-11T07:54:05.375000	n/a	a48b6bf6
+func/sub-01_ses-104_task-spatialwm_run-1_sbref.nii.gz	2014-03-11T07:54:05.375000	n/a	a48b6bf6
